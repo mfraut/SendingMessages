@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Envío de mensajes</string>
+    <string name="usernameTextField">Nombre de usuario</string>
+    <string name="passwordTextField">Contraseña</string>
+    <string name="sendButtonText">Registrarse</string>
+</resources>
